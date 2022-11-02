@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 class DoctorEdit {
-    
+    //TODO: Get doctors from sql
 public $doctors = array(
     array(
         'name' => 'Иванов Иван', 
